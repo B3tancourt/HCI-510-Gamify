@@ -121,6 +121,10 @@
         padding-left: 1rem;
     }
 
+    .center {
+        text-align: center;
+    }
+
     .subtext {
         font-family: 'Roboto', Arial, Helvetica, sans-serif;
         text-align: center;
